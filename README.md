@@ -32,7 +32,7 @@ https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011
 https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/
 
 ### Introduction to Computational Thinking and Data Science
-*Optimization, Stochastic Thinking, Monte Carlo Simulation, Statistics, Intro to ML*
+*Optimization, Stochastic Thinking, Monte Carlo Simulation, Statistics, Intro to ML*  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 
 ### Machine Learning Introduction
