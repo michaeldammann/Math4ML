@@ -4,22 +4,22 @@ Math Foundations for Machine Learning and Data Science (Work In Progress). I mai
 ## 1 Math Foundations
 
 
-### Calculus
+### 1.1 Calculus
 *Differentiation and Integration*  
 Single Variable:  
 https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/  
 Multivariable:  
 https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/  
 
-### Linear Algebra
+### 1.2 Linear Algebra
 *Vectors and Matrices*  
 https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
-### Probability Theory
+### 1.2 Probability Theory
 *Probability models, random variables, random processes*  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
 
-### Differential Equations
+### 1.4 Differential Equations
 *Helpful for optimization problems*  
 https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
 
@@ -27,14 +27,14 @@ https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011
 
 ## 2 Intro to Machine Learning
 
-### Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
+### 2.1 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
 *Linear Algebra, Probability and Statistics, Optimization, Deep Learning*  
 https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/
 
-### Introduction to Computational Thinking and Data Science
+### 2.2 Introduction to Computational Thinking and Data Science
 *Optimization, Stochastic Thinking, Monte Carlo Simulation, Statistics, Intro to ML*  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 
-### Machine Learning Introduction
+### 2.3 Machine Learning Introduction
 *Solid foundation for "classical" (non-deep) machine learning (Lectures by Nando de Freitas, UBC 2013)*  
 https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
