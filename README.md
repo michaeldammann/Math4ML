@@ -15,7 +15,7 @@ https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010
 *Vectors and Matrices*  
 https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
-### 1.2 Probability Theory
+### 1.3 Probability Theory
 *Probability models, random variables, random processes*  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
 
