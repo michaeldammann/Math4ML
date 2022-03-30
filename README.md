@@ -1,11 +1,11 @@
 # Math4ML
 Math Foundations for Machine Learning and Data Science (Work In Progress)
 
-# Calculus
+## Calculus
 Mainly Differentiation and Integration
-## Single Variable Calculus
+### Single Variable Calculus
 MIT OCW Course:
 https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
-## Multivariable Calculus
+### Multivariable Calculus
 MIT OCW Course:
 https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
