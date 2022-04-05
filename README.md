@@ -38,3 +38,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-i
 ### 2.3 Machine Learning Introduction
 *Solid foundation for "classical" (non-deep) machine learning (Lectures by Nando de Freitas, UBC 2013)*  
 https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
+
+### 2.4 Probabilistic ML
+Philipp Hennig, University of Tübingen
+https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
