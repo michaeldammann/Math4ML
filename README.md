@@ -19,7 +19,11 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 *Probability models, random variables, random processes*  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
 
-### 1.4 Differential Equations
+### 1.4 Statistics for Applications
+*Parametric Inference, Maximum Likelihood Estimation, Hypothesis Testing, Goodness of Fit, PCA, Generalized Linear Models*
+https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
+
+### 1.5 Differential Equations
 *Helpful for optimization problems*  
 https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
 
